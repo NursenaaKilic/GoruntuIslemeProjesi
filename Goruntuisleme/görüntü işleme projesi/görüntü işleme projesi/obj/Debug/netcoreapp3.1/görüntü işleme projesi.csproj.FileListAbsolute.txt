@@ -1,0 +1,32 @@
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\bin\Debug\netcoreapp3.1\görüntü işleme projesi.exe
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\bin\Debug\netcoreapp3.1\görüntü işleme projesi.deps.json
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\bin\Debug\netcoreapp3.1\görüntü işleme projesi.runtimeconfig.json
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\bin\Debug\netcoreapp3.1\görüntü işleme projesi.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\bin\Debug\netcoreapp3.1\görüntü işleme projesi.dll
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\bin\Debug\netcoreapp3.1\görüntü işleme projesi.pdb
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü_işleme_projesi.Form1.resources
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.AssemblyInfo.cs
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.dll
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.pdb
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.genruntimeconfig.cache
+C:\Users\HP\Desktop\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü_işleme_projesi.Form2.resources
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\bin\Debug\netcoreapp3.1\görüntü işleme projesi.exe
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\bin\Debug\netcoreapp3.1\görüntü işleme projesi.deps.json
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\bin\Debug\netcoreapp3.1\görüntü işleme projesi.runtimeconfig.json
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\bin\Debug\netcoreapp3.1\görüntü işleme projesi.runtimeconfig.dev.json
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\bin\Debug\netcoreapp3.1\görüntü işleme projesi.dll
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\bin\Debug\netcoreapp3.1\görüntü işleme projesi.pdb
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü_işleme_projesi.Form1.resources
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü_işleme_projesi.Form2.resources
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.AssemblyInfo.cs
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.dll
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.pdb
+C:\Users\HP\Desktop\2-3 güz\görüntü proje\Görüntü İşleme\görüntü işleme projesi\görüntü işleme projesi\obj\Debug\netcoreapp3.1\görüntü işleme projesi.genruntimeconfig.cache
